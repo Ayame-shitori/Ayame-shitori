@@ -3,16 +3,19 @@ name: Wakatime Readme Stats
 on:
   workflow_dispatch:
   schedule:
-    # Updates every 12 hours
-    - cron: '0 */12 * * *'
+    - cron: '0 */4 * * *'  # Toutes les 4 heures
 
 jobs:
   update-readme:
     name: Update Wakatime Stats
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v2
+      - name: Update README with WakaTime stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
+          SHOW_TOTAL: true
+          SHOW_DAYS_OF_WEEK: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
