@@ -7,7 +7,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
 
 ## 🦋 Profile
-🎓 Hey there! I’m a 2nd-year Computer Science student specializing in development. I’m super into programming, web design, and all things tech!
+🎓 I’m a 2nd-year Computer Science student specializing in development. I’m super into programming, web design, and all things tech!
 I'm currently working on projects using **Next.js**, **React**, **JavaScript**, and **TypeScript**.
 
 ### 🎯 Goals
@@ -22,7 +22,7 @@ I'm currently working on projects using **Next.js**, **React**, **JavaScript**, 
 - 🎮 Video games
 - 🧘‍♀️ Self-care/development
 
-## 🚀 Technologies & Skills
+### 🚀 Technologies & Skills
 
 #### 🧑‍💻 Languages I know:
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
