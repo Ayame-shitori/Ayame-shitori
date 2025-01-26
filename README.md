@@ -5,7 +5,9 @@
 ## 📊 GitHub stats 
 &nbsp;<div>
 <div align="center">
+Last 7 days
 
+  
 ![WakaTime](https://github-readme-stats-beige-rho-67.vercel.app/api/wakatime?username=wakaAyame&theme=transparent)
 <br /><br />
 ![Anurag's GitHub Stats](https://github-readme-stats-beige-rho-67.vercel.app/api?username=Ayame-shitori&rank_icon=github&count_private=true&theme=transparent&show_icons=true&include_all_commits=true)
