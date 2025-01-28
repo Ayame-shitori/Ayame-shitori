@@ -50,7 +50,7 @@ I'm currently working on projects using **Next.js**, **React**, **JavaScript**, 
 Last 7 days
 
   
-![WakaTime](https://github-readme-stats-beige-rho-67.vercel.app/api/wakatime?username=wakaAyame&theme=radical)
+![WakaTime](https://github-readme-stats-beige-rho-67.vercel.app/api/wakatime?username=wakaAyame&theme=radical&rand=1609459200)
 <br /><br />
 ![Anurag's GitHub Stats](https://github-readme-stats-beige-rho-67.vercel.app/api?username=Ayame-shitori&rank_icon=github&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
 <br /><br />
