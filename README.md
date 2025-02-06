@@ -47,7 +47,7 @@ I'm currently working on projects using **Next.js**, **React**, **JavaScript**, 
 ## 📊 GitHub stats 
 &nbsp;<div>
 <div align="center">
-Last 7 days
+Since January 22, 2025
 
   
 ![WakaTime](https://github-readme-stats-beige-rho-67.vercel.app/api/wakatime?username=wakaAyame&theme=radical&rand=1609459200)
