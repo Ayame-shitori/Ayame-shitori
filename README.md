@@ -51,11 +51,7 @@ Since January 22, 2025
 
   
 ![WakaTime](https://github-readme-stats-beige-rho-67.vercel.app/api/wakatime?username=wakaAyame&theme=radical&rand=1609459200)
-<br /><br />
-![Anurag's GitHub Stats](https://github-readme-stats-beige-rho-67.vercel.app/api?username=Ayame-shitori&rank_icon=github&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
-<br /><br />
-![Top Langs](https://github-readme-stats-beige-rho-67.vercel.app/api/top-langs/?username=Ayame-shitori&hide_progress=true&count_private=true&theme=radical&include_all_commits=tru)
-</div>
+
 <br />
 
 ## 🎧 What am i listening to
