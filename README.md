@@ -54,7 +54,6 @@ Since January 22, 2025
 
 <br />
 
-## 🎧 What am i listening to
 <div align="center">
   
   "Creativity is intelligence having fun." - Albert Einstein ✨</p>
