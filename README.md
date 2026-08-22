@@ -3,32 +3,29 @@
 
 ### 🎓 I recently graduated with a **Bachelor's Degree in Computer Science** (Bac +3), specializing in software development. I'm currently working on projects using **Next.js**, **React**, **JavaScript**, and **TypeScript**.
 
-### 🧑‍💻 Languages & Core
+### Compétences techniques
+
+| Catégorie | Technologies | Niveau |
+|---|---|---|
+| **Langages & Bases** | <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" /> | Maîtrisé |
+| **En cours d'apprentissage** | <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind" /> | En progression |
+| **Outils** | <img src="https://skillicons.dev/icons?i=vscode,idea,docker" /> | Maîtrisé |
+
+### 📬 Connect with me
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+  <a href="https://www.linkedin.com/in/maryamboubrit/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:maryam.boubrit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 📚 Currently working with & learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind" />
-</p>
-
-### 🛠 Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,docker" />
-</p>
-
-### 📫 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/maryamboubrit/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;<a href="mailto:maryam.boubrit@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
-</p>
-
-### ❤️ Passions
-- 💻 Web development & creative coding
-- 🌍 Traveling and discovering cultures
-- 🎬 Action, crime, and drama movies
-- 🎮 Video games (Valorant)
-- 🧘‍♀️ Self-development & wellness
+### 🎯 Passions
+<table>
+  <tr>
+    <td align="center">💻<br><b>development</b></td>
+    <td align="center">🌍<br><b>Travel</b></td>
+    <td align="center">🎬<br><b>Movies</b></td>
+    <td align="center">🎮<br><b>Video games</b></td>
+    <td align="center">🧘‍♀️<br><b>Self-development</b></td>
+  </tr>
+</table>
 
 ### 🃏 Here's a random joke for ya:
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
